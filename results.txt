@@ -1,0 +1,232 @@
+ROBERTA + Random LABEL
+
+1/4 Epochs: : 819it [02:51,  4.78it/s, f1=0.641, loss=0.699, lr=1.55e-5] 
+89it [00:05, 16.27it/s, f1=0.811]
+best model saved with f1 0.810606
+2/4 Epochs: : 819it [02:51,  4.76it/s, f1=0.821, loss=0.283, lr=1.07e-5]
+89it [00:05, 16.13it/s, f1=0.821]
+best model saved with f1 0.821366
+3/4 Epochs: : 819it [02:52,  4.74it/s, f1=0.854, loss=0.238, lr=5.85e-6]
+89it [00:05, 15.97it/s, f1=0.834]
+best model saved with f1 0.833519
+4/4 Epochs: : 819it [02:53,  4.73it/s, f1=0.871, loss=0.208, lr=1e-6]   
+89it [00:05, 15.96it/s, f1=0.838]
+best model saved with f1 0.837868
+
+
+ROBERTA
+
+1/4 Epochs: : 819it [02:51,  4.79it/s, f1=0.647, loss=0.732, lr=1.55e-5] 
+89it [00:05, 16.36it/s, f1=0.803]
+best model saved with f1 0.802754
+2/4 Epochs: : 819it [02:50,  4.79it/s, f1=0.822, loss=0.281, lr=1.07e-5]
+89it [00:05, 16.06it/s, f1=0.823]
+best model saved with f1 0.823151
+3/4 Epochs: : 819it [02:49,  4.83it/s, f1=0.853, loss=0.239, lr=5.85e-6]
+89it [00:05, 16.08it/s, f1=0.831]
+best model saved with f1 0.831411
+4/4 Epochs: : 819it [02:50,  4.79it/s, f1=0.872, loss=0.21, lr=1e-6]    
+89it [00:05, 16.05it/s, f1=0.835]
+best model saved with f1 0.834855
+
+
+1/10 Epochs: : 819it [02:52,  4.75it/s, f1=0.64, loss=0.703, lr=1.84e-5]  
+89it [00:05, 16.24it/s, f1=0.803]
+best model saved with f1 0.803079
+2/10 Epochs: : 819it [02:52,  4.74it/s, f1=0.818, loss=0.288, lr=1.65e-5]
+89it [00:05, 16.12it/s, f1=0.81] 
+best model saved with f1 0.810498
+3/10 Epochs: : 819it [02:53,  4.73it/s, f1=0.847, loss=0.244, lr=1.46e-5]
+89it [00:05, 15.92it/s, f1=0.81] 
+4/10 Epochs: : 819it [02:51,  4.77it/s, f1=0.871, loss=0.211, lr=1.26e-5]
+89it [00:05, 16.05it/s, f1=0.824]
+best model saved with f1 0.824371
+5/10 Epochs: : 819it [02:51,  4.78it/s, f1=0.888, loss=0.186, lr=1.07e-5]
+89it [00:05, 16.04it/s, f1=0.827]
+best model saved with f1 0.826936
+6/10 Epochs: : 819it [02:52,  4.75it/s, f1=0.904, loss=0.162, lr=8.75e-6]
+89it [00:05, 15.75it/s, f1=0.826]
+7/10 Epochs: : 819it [02:52,  4.76it/s, f1=0.915, loss=0.143, lr=6.82e-6]
+89it [00:05, 16.19it/s, f1=0.837]
+best model saved with f1 0.836652
+8/10 Epochs: : 819it [02:51,  4.78it/s, f1=0.926, loss=0.125, lr=4.88e-6]
+89it [00:05, 14.97it/s, f1=0.837]
+best model saved with f1 0.836973
+9/10 Epochs: : 819it [02:51,  4.78it/s, f1=0.934, loss=0.112, lr=2.94e-6]
+89it [00:05, 16.12it/s, f1=0.834]
+10/10 Epochs: : 819it [02:50,  4.81it/s, f1=0.943, loss=0.0999, lr=1e-6]   
+89it [00:05, 16.37it/s, f1=0.838]
+best model saved with f1 0.838395
+
+
+1/10 Epochs: : 819it [02:50,  4.80it/s, f1=0.638, loss=0.726, lr=1.84e-5] 
+89it [00:05, 16.37it/s, f1=0.801]
+best model saved with f1 0.800624
+2/10 Epochs: : 819it [02:52,  4.74it/s, f1=0.82, loss=0.285, lr=1.65e-5] 
+89it [00:05, 16.09it/s, f1=0.82] 
+best model saved with f1 0.820453
+3/10 Epochs: : 819it [02:51,  4.78it/s, f1=0.851, loss=0.241, lr=1.46e-5]
+89it [00:05, 16.04it/s, f1=0.822]
+best model saved with f1 0.822388
+4/10 Epochs: : 819it [02:52,  4.74it/s, f1=0.871, loss=0.211, lr=1.26e-5]
+89it [00:05, 16.06it/s, f1=0.833]
+best model saved with f1 0.832614
+5/10 Epochs: : 819it [02:51,  4.77it/s, f1=0.89, loss=0.185, lr=1.07e-5] 
+89it [00:05, 16.03it/s, f1=0.83] 
+6/10 Epochs: : 819it [02:50,  4.80it/s, f1=0.904, loss=0.161, lr=8.75e-6]
+89it [00:05, 15.98it/s, f1=0.831]
+7/10 Epochs: : 819it [02:51,  4.76it/s, f1=0.916, loss=0.143, lr=6.82e-6]
+89it [00:05, 16.18it/s, f1=0.83] 
+8/10 Epochs: : 819it [02:50,  4.79it/s, f1=0.927, loss=0.125, lr=4.88e-6]
+89it [00:05, 16.17it/s, f1=0.83] 
+9/10 Epochs: : 819it [02:51,  4.78it/s, f1=0.935, loss=0.112, lr=2.94e-6]
+89it [00:05, 16.04it/s, f1=0.834]
+best model saved with f1 0.833924
+10/10 Epochs: : 819it [02:51,  4.77it/s, f1=0.942, loss=0.101, lr=1e-6]    
+89it [00:05, 15.70it/s, f1=0.834]
+
+
+1/10 Epochs: : 819it [02:50,  4.80it/s, f1=0.618, loss=0.879, lr=1.84e-5] 
+89it [00:05, 16.49it/s, f1=0.795]
+best model saved with f1 0.795088
+2/10 Epochs: : 819it [02:50,  4.82it/s, f1=0.82, loss=0.283, lr=1.65e-5] 
+89it [00:05, 16.09it/s, f1=0.828]
+best model saved with f1 0.827560
+3/10 Epochs: : 819it [02:49,  4.84it/s, f1=0.853, loss=0.239, lr=1.46e-5]
+89it [00:05, 16.12it/s, f1=0.828]
+best model saved with f1 0.828328
+4/10 Epochs: : 819it [02:51,  4.78it/s, f1=0.874, loss=0.208, lr=1.26e-5]
+89it [00:05, 16.24it/s, f1=0.833]
+best model saved with f1 0.832793
+5/10 Epochs: : 819it [02:49,  4.84it/s, f1=0.888, loss=0.183, lr=1.07e-5]
+89it [00:05, 16.27it/s, f1=0.834]
+best model saved with f1 0.834187
+6/10 Epochs: : 819it [02:49,  4.82it/s, f1=0.904, loss=0.163, lr=8.75e-6]
+89it [00:05, 16.14it/s, f1=0.832]
+7/10 Epochs: : 819it [02:50,  4.80it/s, f1=0.916, loss=0.142, lr=6.82e-6]
+89it [00:05, 16.00it/s, f1=0.834]
+8/10 Epochs: : 819it [02:48,  4.87it/s, f1=0.924, loss=0.127, lr=4.88e-6]
+89it [00:05, 16.18it/s, f1=0.833]
+9/10 Epochs: : 819it [02:49,  4.84it/s, f1=0.933, loss=0.113, lr=2.94e-6]
+89it [00:05, 16.23it/s, f1=0.834]
+best model saved with f1 0.834263
+10/10 Epochs: : 819it [02:50,  4.81it/s, f1=0.94, loss=0.102, lr=1e-6]    
+89it [00:05, 16.24it/s, f1=0.834]
+
+
+1/10 Epochs: : 4095it [11:42,  5.83it/s, f1=0.428, loss=0.0769, lr=9.53e-6] 
+445it [00:27, 15.95it/s, f1=0.781]
+best model saved with f1 0.780928
+2/10 Epochs: : 4095it [11:35,  5.89it/s, f1=0.798, loss=0.0157, lr=8.58e-6]
+445it [00:26, 16.91it/s, f1=0.814]
+best model saved with f1 0.813938
+3/10 Epochs: : 4095it [11:15,  6.06it/s, f1=0.837, loss=0.0132, lr=7.64e-6]
+445it [00:26, 16.88it/s, f1=0.828]
+best model saved with f1 0.827829
+4/10 Epochs: : 4095it [11:14,  6.07it/s, f1=0.857, loss=0.0117, lr=6.7e-6] 
+445it [00:26, 16.85it/s, f1=0.823]
+5/10 Epochs: : 4095it [11:14,  6.07it/s, f1=0.872, loss=0.0107, lr=5.75e-6]
+445it [00:26, 16.84it/s, f1=0.835]
+best model saved with f1 0.835394
+6/10 Epochs: : 4095it [11:14,  6.07it/s, f1=0.883, loss=0.00986, lr=4.81e-6]
+445it [00:26, 16.67it/s, f1=0.837]
+best model saved with f1 0.836942
+7/10 Epochs: : 4095it [11:17,  6.05it/s, f1=0.893, loss=0.00904, lr=3.86e-6]
+445it [00:26, 16.91it/s, f1=0.843]
+best model saved with f1 0.843107
+8/10 Epochs: : 4095it [11:16,  6.06it/s, f1=0.901, loss=0.00846, lr=2.92e-6]
+445it [00:26, 16.89it/s, f1=0.832]
+9/10 Epochs: : 4095it [11:15,  6.07it/s, f1=0.908, loss=0.00792, lr=1.98e-6]
+445it [00:26, 17.00it/s, f1=0.84] 
+10/10 Epochs: : 4095it [11:17,  6.05it/s, f1=0.912, loss=0.00749, lr=1.03e-6]
+445it [00:26, 16.75it/s, f1=0.837]
+
+
+1/10 Epochs: : 4095it [11:28,  5.95it/s, f1=0.395, loss=0.0941, lr=9.53e-6]  
+445it [00:26, 16.87it/s, f1=0.764]
+best model saved with f1 0.764299
+2/10 Epochs: : 4095it [11:17,  6.04it/s, f1=0.797, loss=0.0159, lr=8.58e-6]
+445it [00:27, 15.90it/s, f1=0.82] 
+best model saved with f1 0.819633
+3/10 Epochs: : 4095it [11:43,  5.82it/s, f1=0.834, loss=0.0134, lr=7.64e-6]
+445it [00:26, 17.00it/s, f1=0.825]
+best model saved with f1 0.825228
+4/10 Epochs: : 4095it [11:33,  5.91it/s, f1=0.857, loss=0.0119, lr=6.7e-6] 
+445it [00:28, 15.83it/s, f1=0.831]
+best model saved with f1 0.831297
+5/10 Epochs: : 4095it [11:17,  6.04it/s, f1=0.87, loss=0.0107, lr=5.75e-6] 
+445it [00:27, 16.28it/s, f1=0.837]
+best model saved with f1 0.836553
+6/10 Epochs: : 4095it [11:33,  5.90it/s, f1=0.882, loss=0.00997, lr=4.81e-6]
+445it [00:28, 15.35it/s, f1=0.835]
+7/10 Epochs: : 4095it [11:23,  5.99it/s, f1=0.891, loss=0.00916, lr=3.86e-6]
+445it [00:26, 16.79it/s, f1=0.84] 
+best model saved with f1 0.840019
+8/10 Epochs: : 4095it [11:27,  5.96it/s, f1=0.899, loss=0.0086, lr=2.92e-6] 
+445it [00:27, 16.46it/s, f1=0.835]
+9/10 Epochs: : 4095it [11:26,  5.96it/s, f1=0.906, loss=0.00803, lr=1.98e-6]
+445it [00:27, 15.95it/s, f1=0.838]
+10/10 Epochs: : 4095it [11:26,  5.96it/s, f1=0.911, loss=0.00766, lr=1.03e-6]
+445it [00:25, 17.21it/s, f1=0.836]
+
+
+1/10 Epochs: : 4095it [11:40,  5.85it/s, f1=0.437, loss=0.0724, lr=9.53e-6] 
+445it [00:27, 16.11it/s, f1=0.785]
+best model saved with f1 0.784789
+2/10 Epochs: : 4095it [11:29,  5.94it/s, f1=0.794, loss=0.016, lr=8.58e-6] 
+445it [00:31, 14.00it/s, f1=0.818]
+best model saved with f1 0.818251
+3/10 Epochs: : 4095it [11:48,  5.78it/s, f1=0.835, loss=0.0133, lr=7.64e-6]
+445it [00:28, 15.49it/s, f1=0.829]
+best model saved with f1 0.829421
+4/10 Epochs: : 4095it [11:41,  5.84it/s, f1=0.855, loss=0.0119, lr=6.7e-6] 
+445it [00:27, 16.38it/s, f1=0.823]
+5/10 Epochs: : 4095it [11:58,  5.70it/s, f1=0.87, loss=0.0108, lr=5.75e-6] 
+445it [00:29, 14.87it/s, f1=0.836]
+best model saved with f1 0.836455
+6/10 Epochs: : 4095it [11:40,  5.84it/s, f1=0.88, loss=0.01, lr=4.81e-6]    
+445it [00:28, 15.69it/s, f1=0.834]
+7/10 Epochs: : 4095it [11:55,  5.72it/s, f1=0.89, loss=0.00921, lr=3.86e-6] 
+445it [00:27, 16.04it/s, f1=0.837]
+best model saved with f1 0.836928
+8/10 Epochs: : 4095it [11:59,  5.69it/s, f1=0.899, loss=0.00862, lr=2.92e-6]
+445it [00:28, 15.37it/s, f1=0.833]
+9/10 Epochs: : 4095it [11:46,  5.80it/s, f1=0.905, loss=0.00813, lr=1.98e-6]
+445it [00:28, 15.35it/s, f1=0.837]
+best model saved with f1 0.837388
+10/10 Epochs: : 4095it [11:44,  5.81it/s, f1=0.91, loss=0.00769, lr=1.03e-6] 
+445it [00:26, 16.81it/s, f1=0.836]
+
+msra
+test p & r & f1 0.9645325541496277 & 0.9582580327987671 & 0.9613850712776184/1637 trained_label
+test p & r & f1 0.9585445523262024 & 0.9568124413490295 & 0.9576777219772339/1637 random_label
+test p & r & f1 0.9597315192222595 & 0.9560896158218384 & 0.9579071402549744/1637 no label
+
+conll 
+test p & r & f1 current test p & r & f1 0.9297 & 0.937 & 0.9333 ||| current test p & r & f1 0.9262697100639343 & 0.9364376664161682 & 0.9313259124755859 trained label
+|||test p & r & f1 0.9280309677124023 & 0.9337818622589111 & 0.9308975338935852|||test p & r & f1 0.9291255474090576 & 0.9330736398696899 & 0.9310954213142395 random label
+test p & r & f1 0.921379804611206 & 0.9316571950912476 & 0.9264900088310242|||test p & r & f1 0.926245391368866 & 0.9316571950912476 & 0.9289434552192688
+
+ace2005
+best model saved with p & r & f1 0.869 & 0.8709 & 0.8699 (0.8497, 0.862, 0.8558 dev) trained_label
+best model saved with p & r & f1 0.862 & 0.8606 & 0.8613 random label
+best model saved with p & r & f1 0.8589 & 0.869 & 0.8639 no label
+
+ace2004
+0.8696 & 0.8882 & 0.8788 ||| current test p & r & f1 0.8698202967643738 & 0.8778682351112366 & 0.87382572889328 trained label
+0.8693, 0.8886, 0.8788 random label
+0.8584, 0.893, 0.8754 no label
+
+ontonotes4
+0.8305, 0.8217, 0.8261
+0.8213, 0.8363, 0.8288 trainde label
+0.8099, 0.8338, 0.8217 random label
+0.8404, 0.8084, 0.8241 no label
+
+
+genia
+best model saved with p & r & f1 0.8172 & 0.8239 & 0.8205 (0.8, 0.801, 0.8005)
+best model saved with p & r & f1 0.81 & 0.8245 & 0.8172 (0.8042, 0.7994, 0.8018) softmax concat
+best model saved with p & r & f1 0.8071 & 0.8303 & 0.8185 (0.794, 0.8036, 0.7988) softmax add
+best model saved with p & r & f1 0.7996 & 0.8358 & 0.8173 (0.7871 & 0.8151 & 0.8009) no label
+best model saved with p & r & f1 0.8081 & 0.8217 & 0.8148 (0.799 & 0.7943 & 0.7966) random label
